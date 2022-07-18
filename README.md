@@ -25,5 +25,6 @@ git add .
 git commit -m "first ml prpoject"
 git push origin main 
 
-
+1. heruko key = 61ceee3b-74f5-4e1a-b3e4-bae5910abdba
+2, app name = carddefault
 
