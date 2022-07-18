@@ -8,16 +8,19 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.venu
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
+venv/
 .eggs/
 lib/
 lib64/
 parts/
 sdist/
+
 var/
 wheels/
 pip-wheel-metadata/

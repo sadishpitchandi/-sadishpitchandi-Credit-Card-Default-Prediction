@@ -1,1 +1,29 @@
 # -sadishpitchandi-Credit-Card-Default-Prediction
+
+
+My Application URL: 
+
+
+Problem Statement:
+        Financial threats are displaying a trend about the credit risk of commercial banks as the
+        incredible improvement in the financial industry has arisen. In this way, one of the
+        biggest threats faces by commercial banks is the risk prediction of credit clients. The
+        goal is to predict the probability of credit default based on credit card owner's
+        characteristics and payment history.
+
+
+
+conda --version
+conda create -p venv python==3.7 -y
+conda activate venv/
+pip install -r  requirements.txt 
+
+
+git init
+git pull 
+git add .
+git commit -m "first ml prpoject"
+git push origin main 
+
+
+
