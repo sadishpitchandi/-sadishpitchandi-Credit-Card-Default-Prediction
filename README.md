@@ -28,3 +28,12 @@ git push origin main
 1. heruko key = 61ceee3b-74f5-4e1a-b3e4-bae5910abdba
 2, app name = carddefault
 
+
+name : 'HEROKU_EMAIL'
+value : apjsadish2706@gmail.com
+ add the new respo
+ name " HEROKU_API_KEY
+ vvalue : 61ceee3b-74f5-4e1a-b3e4-bae5910abdba 
+ add bew repo
+ name :HEROKU_APP_NAME
+ value ; carddefault
