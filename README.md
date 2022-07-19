@@ -12,6 +12,17 @@ Problem Statement:
         characteristics and payment history.
 
 
+Based on the financial capability of a client, they get a credit limit, i.e., the maximum amount they can spend in a month through a credit card.
+
+The credit card companies maintain comprehensive data about each of their clients. By analysing the data, they can know what would be the maximum amount they won't be able to recover from their clients yet able to make a significant profit in a financial year to run a sustainable business.
+
+
+Dataset Information
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+
+DATA SET LINK : https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+
+
 
 conda --version
 conda create -p venv python==3.7 -y
@@ -31,9 +42,9 @@ git push origin main
 
 name : 'HEROKU_EMAIL'
 value : apjsadish2706@gmail.com
- add the new respo
+ 
  name " HEROKU_API_KEY
  vvalue : 61ceee3b-74f5-4e1a-b3e4-bae5910abdba 
- add bew repo
+ 
  name :HEROKU_APP_NAME
  value ; carddefault
