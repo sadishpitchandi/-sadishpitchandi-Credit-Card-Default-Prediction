@@ -2,6 +2,7 @@ numpy
 Flask
 gunicorn
 sklearn
+six
 pandas
 PyYAML
 evidently
