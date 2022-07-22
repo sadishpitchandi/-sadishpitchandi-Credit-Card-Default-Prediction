@@ -3,7 +3,7 @@ training_pipeline_config:
   artifact_dir: artifact
 
 data_ingestion_config:
-  dataset_download_url:C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\UCI_Credit_Card.csv
+  dataset_download_url:https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/download?datasetVersionNumber=1
   #raw_data_dir: raw_data
   csv_download_dir:  csv_data
   ingested_dir: ingested_data
@@ -14,10 +14,15 @@ data_ingestion_config:
 
 
 data_validation_config:
+  schema_dir: config
   schema_file_name: schema.yaml
+  report_file_name: report.json
+  report_page_file_name: report.html
 
+
+  
 data_transformation_config:
-  add_bedroom_per_room: true
+  add new col: true
   transformed_dir: transformed_data
   transformed_train_dir: train
   transformed_test_dir: test

@@ -2,10 +2,10 @@ from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME="card "
+PROJECT_NAME="card-predictor"
 VERSION="0.0.3"
-AUTHOR="sadish "
-DESRCIPTION="card predicition "
+AUTHOR="sadish"
+DESRCIPTION="This is  explain the project of card predicition of the customers"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 
