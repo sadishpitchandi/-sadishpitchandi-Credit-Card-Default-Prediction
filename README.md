@@ -3,6 +3,9 @@
 
 My Application URL:  https://carddefault.herokuapp.com/
 
+IMAGE: C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\ui.png
+
+
 
 Problem Statement:
         Financial threats are displaying a trend about the credit risk of commercial banks as the
