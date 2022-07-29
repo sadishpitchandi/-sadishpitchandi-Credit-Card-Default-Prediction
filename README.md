@@ -8,6 +8,11 @@ IMAGE: C:\sadish\project\machine learning\Credict card prediction\-sadishpitchan
 
 
 
+
+![ui](https://user-images.githubusercontent.com/95518504/181775224-ea415c09-09c3-46fb-b238-bbe5d17e1363.PNG)
+
+
+
 Problem Statement:
         Financial threats are displaying a trend about the credit risk of commercial banks as the
         incredible improvement in the financial industry has arisen. In this way, one of the
