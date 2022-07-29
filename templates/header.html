@@ -76,26 +76,27 @@ table-layout: fixed;
        
         <div class="col-md-2 col-sm-12 col-lg-2">
             <ul class=" list-group ">
+                <li class="list-group-item py-1 {% if 'EDA' in request.path %} active {% endif %}">
+                    <a style=" text-decoration: none;color:rgb(0, 0, 0)" href="https://github.com/sadishpitchandi/PYTHON-BASIC-PROGRAM/blob/main/Eda%2C%20models.ipynb">View EDA and MODEL</a>
+                </li>                
                 <li class="list-group-item py-1  {% if 'log' in request.path %} active {% endif %}">
                     <a  style=" text-decoration: none;color:black" href="C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\Training_Logs">View Logs</a>
                 </li>
                 <li class="list-group-item py-1 {% if 'artifact' in request.path %} active {% endif %}">
-                    <a style=" text-decoration: none;color:rgb(0, 0, 0)" href="/artifact">View Artifacts</a>
+                    <a style=" text-decoration: none;color:rgb(0, 0, 0)" href="C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\prediction_Validation_Insertion.py">View Artifacts</a>
                 </li>
                 <li class="list-group-item py-1 {% if 'saved_models' in request.path %} active {% endif %}">
-                    <a style=" text-decoration: none;color:black" href="/saved_models">View Trained Model</a>
+                    <a style=" text-decoration: none;color:black" href="C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\Training_Batch_Files">View Trained Model</a>
                 </li>
-                <li class="list-group-item py-1 {% if 'predict' in request.path %} active {% endif %}">
-                    <a style=" text-decoration: none;color:black" href="/predict">Estimate card default Price</a>
-                </li>
+       
                 <li class="list-group-item py-1 {% if 'train' in request.path %} active {% endif %}">
-                    <a style=" text-decoration: none;color:black" href="/train">Train card default Estimator</a>
+                    <a style=" text-decoration: none;color:black" href="C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\best_model_finder">Train card default Estimator</a>
                 </li>
                 
 
 
                 <li class="list-group-item py-1 {% if 'update_model_config' in request.path %} active {% endif %}">
-                    <a style=" text-decoration: none;color:black" href="/update_model_config">Update Model Config</a>
+                    <a style=" text-decoration: none;color:black" href="C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\Prediction_Output_File">Update Model Config</a>
                 </li>
             </ul>
 
