@@ -1,16 +1,15 @@
 # -sadishpitchandi-Credit-Card-Default-Prediction
 
 
-My Application URL:  https://carddefault.herokuapp.com/
-
-IMAGE: C:\sadish\project\machine learning\Credict card prediction\-sadishpitchandi-Credit-Card-Default-Prediction\ui.png
-![Test Image 1](ui.png)
-
+**My Application URL:  https://carddefault.herokuapp.com/
+**
+                                  UI PAGE IMAGE 
 
 
 
 ![ui](https://user-images.githubusercontent.com/95518504/181775224-ea415c09-09c3-46fb-b238-bbe5d17e1363.PNG)
 
+![ui2](https://user-images.githubusercontent.com/95518504/181775471-dbaf5cef-ed85-423e-bc96-00c6ff365c06.PNG)
 
 
 Problem Statement:
